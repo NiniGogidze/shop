@@ -1,0 +1,120 @@
+body {
+    background-color:  #E5E5E5;
+}
+
+.white-box {
+    width: 390px;
+    height: 900px;
+    background-color: white;
+    margin-left: 590px;
+}
+
+h1 {
+    font-size: 24px;
+    padding-top: 63px;
+    padding-left: 22px;
+}
+
+.flex {
+    display: flex;
+}
+
+.cart {
+    width: 24px;
+    height: 26px;
+    padding-top: 80px;
+    padding-left: 150px;
+}
+
+.grey-box {
+    width: 390px;
+    height: 35px;
+    background-color: #E5E5E5;
+    margin-top: 34px;
+}
+
+.item {
+    font-size: 14px;
+    text-align: center;
+    color: grey;
+    padding-top: 5px;
+}
+
+.product{
+    width: 76px;
+    height: 76px;
+    padding-top: 32px;
+    padding-left: 24px;
+}
+
+.white {
+    display: flex;
+}
+
+.ph {
+    padding-left: 20px;
+    width: 52px;
+    height: 63px;
+    padding-top: 10px;
+}
+
+h5 {
+    height: 0px;
+}
+
+.gucci {
+    width: 100px;
+}
+
+.grey-line {
+    height: 2px;
+    width: 390px;
+    background-color: #E5E5E5;
+    margin-top: 16px;
+}
+
+.grey-line-empty {
+    height: 2px;
+    width: 390px;
+    background-color: #E5E5E5;
+    margin-top: 95px;
+}
+
+.red-button {
+    width: 106px;
+    height: 20px;
+    background-color: #D94141;
+    color: white;
+    border-radius: 20px;
+    font-size: 12px;
+    border: #E5E5E5;
+    cursor: pointer;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.grey-button {
+    width: 234px;
+    height: 52px;
+    border-radius: 48px;
+    background-color: #393939;
+    color: #E5E5E5;
+    border: #393939;
+    font-size: 24px;
+    cursor: pointer;
+    margin-left: 76px;
+    margin-top: 60px;
+}
+
+.cycle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #D94141;
+    color: white;
+    border: #D94141;
+    text-align: center;
+    position: absolute;
+    top: 70px;
+    left: 910px;
+}
